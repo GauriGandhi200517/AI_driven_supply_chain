@@ -27,9 +27,33 @@ Control Tower Models: Real-time visibility and analytics across the supply chain
 
 8. Simulation Models
 Monte Carlo Simulations: Assess risks and uncertainties in supply chain operations.
-Agent-Based Modeling (ABM): Simulates behaviors of individual supply chain entities using data.
-Discrete-Event Simulation (DES): Models supply chain dynamics over time.
 
-9. Big Data and IoT Models
-IoT-Enabled Supply Chain Models: Use real-time sensor data for tracking and automation.
-Big Data Analytics Models: Analyze massive datasets for patterns and trends.
+
+
+
+
+**MODELS WHICH ARE USED IN AI DRIVEN SUPPLY CHAIN**
+**1. Continuous Flow Model**
+Products: High-demand, stable products.
+Examples: Packaged foods, beverages, chemicals, paper products.
+**2. Agile Model**
+Products: Customizable or rapidly changing products.
+Examples: High-fashion apparel, custom electronics, bespoke furniture.
+**3. Fast Chain Model**
+Products: Trendy, short-lifecycle items.
+Examples: Smartphones, seasonal clothing, event-specific merchandise.
+**4. Flexible Model**
+Products: Seasonal or variable-demand products.
+Examples: Holiday decorations, agricultural produce, sports equipment.
+**5. Efficient Chain Model**
+Products: Standardized, high-volume, price-sensitive products.
+Examples: Automotive parts, household appliances, consumer goods like toothpaste or batteries.
+**6. Supply Chain Operations Reference (SCOR) Model**
+Products: Any product category, as this model is process-focused.
+Examples: Applicable across industries such as manufacturing, retail, and healthcare.
+**7. Resilient Supply Chain Model**
+Products: Critical or highly sensitive products.
+Examples: Pharmaceuticals, medical equipment, high-tech components.
+8**. Data-Driven Supply Chain Model**
+Products: Products benefiting from real-time tracking and analytics.
+Examples: E-commerce goods, perishable items, luxury goods (for authentication).
